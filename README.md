@@ -4,6 +4,8 @@
 *Focusing on high-scale infrastructure, database optimization, and system reliability.*
 
 ---
+[GIST Link](https://gist.github.com/shivam-pawar-7217/cd7bc0010a670761817dab6370545051)
+
 
 ### 🚀 Impact at FOSSASIA (Eventyay)
 I am currently re-engineering the core infrastructure of **Eventyay-Server** to prepare it for high-traffic scale.
