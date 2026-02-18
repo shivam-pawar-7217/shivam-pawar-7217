@@ -1,80 +1,94 @@
-### Hi there, I'm Shivam 👋
+<div align="center">
+ 
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shivam+Pawar;Backend+%26+DevOps+Engineer;Building+Scalable+Systems;GSoC+2026+Aspirant" alt="Typing SVG" />
+  </a>
 
-**Backend & DevOps Engineer | Performance Specialist**
-*Focusing on high-scale infrastructure, database optimization, and system reliability.*
+  <h3>System Optimization | Database Architecture | Developer Tooling</h3>
+
+  <p>
+    <a href="https://linkedin.com/in/shivam-pawar">
+      <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    </a>
+    <a href="mailto:snshivam205@gmail.com">
+      <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
+    </a>
+    <a href="https://gist.github.com/shivam-pawar-7217/cd7bc0010a670761817dab6370545051">
+      <img src="https://img.shields.io/badge/GSoC_2026-Live_Tracker-2ea44f?style=for-the-badge&logo=google-earth&logoColor=white" />
+    </a>
+  </p>
+</div>
 
 ---
-[GIST Link](https://gist.github.com/shivam-pawar-7217/cd7bc0010a670761817dab6370545051)
+
+### 👨‍💻 About Me
+
+I am a **Backend-First Engineer** with a passion for **Infrastructure-as-Code** and **High-Performance Systems**. I don't just write code; I optimize how code runs. Currently, I am re-engineering the **Eventyay (FOSSASIA)** ecosystem to handle high-scale summit traffic.
+
+- 🔭 **I’m currently working on:** `Eventyay-Server` (Performance) & `Eventyay-Python-SDK`.
+- 👯 **I’m looking to collaborate on:** Open Source Python Tooling & Async System Design.
+- 💬 **Ask me about:** Django ORM Optimization (N+1), Docker Multi-stage Builds, and REST API Security.
+- ⚡ **Fun fact:** I once reduced a Docker image size by 600MB in a single commit.
+
+---
 
 
-### 🚀 Impact at FOSSASIA (Eventyay)
-I am currently re-engineering the core infrastructure of **Eventyay-Server** to prepare it for high-traffic scale.
+### 📊 GitHub Analytics
+<div align="center">
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api?username=shivam-pawar-7217&show_icons=true&theme=radical&count_private=true" alt="Shivam's GitHub Stats" />
+  </p>
+  <p>
+    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-pawar-7217&theme=radical&hide_border=true" alt="Shivam's Streak" />
+  </p>
+  <p>
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-pawar-7217&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" alt="Top Languages" />
+  </p>
+</div>
 
-| Status | PR | Impact & Metrics |
+
+---
+
+### 🚀 **Featured Project: The Eventyay Python SDK**
+*I am architecting the type-safe, async-ready Python client for the Eventyay ecosystem.*
+
+| Feature | Tech Stack | Status |
 | :--- | :--- | :--- |
-| 🟣 **Merged** | **[#2307](https://github.com/fossasia/eventyay/pull/2307)** | **Infrastructure:** Reduced Development Docker Image size by **42%** (1.42GB → 820MB). |
-| 🟢 **Review** | **[#2236](https://github.com/fossasia/eventyay/pull/2236)** | **Performance:** Optimized Admin Dashboard Querysets (Reduced DB queries by **91%**). |
-| 🟢 **Open** | **[#2241](https://github.com/fossasia/eventyay/pull/2241)** | **Security:** Implemented Pagination protections for Organizer APIs to prevent DoS risks. |
+| **Async Support** | `asyncio`, `aiohttp` | 🚧 **In Progress** |
+| **Type Safety** | `Pydantic` V2 Models | ✅ **Completed** |
+| **CLI Tool** | `Typer`, `Rich` | 🚧 **In Progress** |
+| **Pagination** | Auto-handling Generators | ✅ **Completed** |
+
 
 ---
 
 ### 🛠 Technical Arsenal
 
-**Core Languages**
+#### 🐍 **Backend Core**
 <p align="left">
   <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
-  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" />
-</p>
-
-**Backend & Frameworks**
-<p align="left">
   <img src="https://img.shields.io/badge/Django-092E20?style=for-the-badge&logo=django&logoColor=white" />
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" />
-  <img src="https://img.shields.io/badge/REST_APIs-005571?style=for-the-badge&logo=azure-functions&logoColor=white" />
-</p>
-
-**Databases**
-<p align="left">
+  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" />
   <img src="https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white" />
-  <img src="https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white" />
-  <img src="https://img.shields.io/badge/SQL-4479A1?style=for-the-badge&logo=mysql&logoColor=white" />
+  <img src="https://img.shields.io/badge/Redis-DC382D?style=for-the-badge&logo=redis&logoColor=white" />
 </p>
 
-**Cloud & DevOps**
+#### ☁️ **DevOps & Infrastructure**
 <p align="left">
   <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" />
-  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
-  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoft-azure&logoColor=white" />
-  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
   <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white" />
+  <img src="https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx&logoColor=white" />
+  <img src="https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black" />
 </p>
 
-**Tools**
+#### 🔧 **Tools & Languages**
 <p align="left">
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
+  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" />
+  <img src="https://img.shields.io/badge/C++-00599C?style=for-the-badge&logo=c%2B%2B&logoColor=white" />
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" />
+  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
+
 
 ---
-
-### 💼 Leadership & Community
-**Core Team Member @ Google Developer Group (GDG) MIT-WPU**
-* 🎤 Organizing tech talks, workshops, and hackathons.
-* 👥 Building a developer community of **500+ students**.
-* 🔬 Mentoring peers in Open Source contribution workflows.
-
-<div align="center">
-  <br>
-  <i>"Building scalable solutions, one commit at a time." 🚀</i>
-  <br><br>
-  <a href="mailto:snshivam205@gmail.com">
-    <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://linkedin.com/in/shivam-pawar">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
-  </a>
-</div>
