@@ -50,18 +50,18 @@ I am a **Backend-First Engineer** with a passion for **Infrastructure-as-Code** 
 ---
 
 ### 🚀 **Featured Project: The Eventyay Python SDK**
-*I am architecting the type-safe, async-ready Python client for the Eventyay ecosystem.*
+*Architecting the first official, type-safe, and async-ready Python client for the FOSSASIA Eventyay ecosystem.*
 
-| Feature | Tech Stack | Status |
-| :--- | :--- | :--- |
-| **Async Support** | `asyncio`, `aiohttp` | 🚧 **In Progress** |
-| **Type Safety** | `Pydantic` V2 Models | ✅ **Completed** |
-| **CLI Tool** | `Typer`, `Rich` | 🚧 **In Progress** |
-| **Pagination** | Auto-handling Generators | ✅ **Completed** |
+This SDK is engineered to bridge the gap between Python backend developers and the Eventyay REST API. It is designed with a focus on high-performance data pipelines, strict type validation, and developer experience.
 
+| Architecture Pillar | Implementation & Tech Stack |
+| :--- | :--- |
+| **High-Performance Async** | Built on top of `aiohttp` and `asyncio` to allow massive, non-blocking asynchronous data fetching without locking the main event loop. |
+| **Strict Type Safety** | Engineered using `Pydantic V2` to strictly validate all incoming JSON data into heavily typed Python models. |
+| **CLI Developer Tooling** | Features a first-class Command Line Interface built with `Typer` and `Rich` for gorgeous, script-free terminal interactions. |
+| **Resilient Pipelines** | Includes advanced features like automatic pagination handling, rate-limit backoffs, and isolated mock testing for remote CI/CD stability. |
 
 ---
-
 ### 🛠 Technical Arsenal
 
 #### 🐍 **Backend Core**
