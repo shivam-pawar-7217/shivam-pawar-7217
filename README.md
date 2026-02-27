@@ -25,13 +25,12 @@
 
 I am a **Backend-First Engineer** with a passion for **Infrastructure-as-Code** and **High-Performance Systems**. I don't just write code; I optimize how code runs. Currently, I am re-engineering the **Eventyay (FOSSASIA)** ecosystem to handle high-scale summit traffic.
 
-- 🔭 **I’m currently working on:** `Eventyay-Server` (Performance) & `Eventyay-Python-SDK`.
+- 🔭 **I’m currently working on:** `eventyay-ticket` (Performance & DX) & `eventyay-python-sdk`.
 - 👯 **I’m looking to collaborate on:** Open Source Python Tooling & Async System Design.
-- 💬 **Ask me about:** Django ORM Optimization (N+1), Docker Multi-stage Builds, and REST API Security.
-- ⚡ **Fun fact:** I once reduced a Docker image size by 600MB in a single commit.
+- 💬 **Ask me about:** Django ORM Optimization (N+1 queries), Docker Multi-stage Builds, and REST API Security.
+- ⚡ **Fun fact:** I recently reduced the Eventyay backend Docker image size by 40% in a single PR.
 
 ---
-
 
 ### 📊 GitHub Analytics
 <div align="center">
@@ -46,22 +45,22 @@ I am a **Backend-First Engineer** with a passion for **Infrastructure-as-Code** 
   </p>
 </div>
 
-
 ---
 
 ### 🚀 **Featured Project: The Eventyay Python SDK**
-*Architecting the first official, type-safe, and async-ready Python client for the FOSSASIA Eventyay ecosystem.*
+*🔗 [shivam-pawar-7217/eventyay-python-sdk](https://github.com/shivam-pawar-7217/eventyay-python-sdk)*
 
-This SDK is engineered to bridge the gap between Python backend developers and the Eventyay REST API. It is designed with a focus on high-performance data pipelines, strict type validation, and developer experience.
+Architecting the first official, type-safe, and async-ready Python client for the FOSSASIA Eventyay ecosystem. This SDK bridges the gap between Python backend developers and the Eventyay REST API, designed with a focus on high-performance data pipelines, strict type validation, and developer experience.
 
 | Architecture Pillar | Implementation & Tech Stack |
 | :--- | :--- |
-| **High-Performance Async** | Built on top of `aiohttp` and `asyncio` to allow massive, non-blocking asynchronous data fetching without locking the main event loop. |
-| **Strict Type Safety** | Engineered using `Pydantic V2` to strictly validate all incoming JSON data into heavily typed Python models. |
-| **CLI Developer Tooling** | Features a first-class Command Line Interface built with `Typer` and `Rich` for gorgeous, script-free terminal interactions. |
-| **Resilient Pipelines** | Includes advanced features like automatic pagination handling, rate-limit backoffs, and isolated mock testing for remote CI/CD stability. |
+| **High-Performance Async** | Built on `aiohttp` and `asyncio` for non-blocking asynchronous data fetching. |
+| **Strict Type Safety** | Engineered using `Pydantic V2` to validate JSON payloads into strictly typed Python models. |
+| **CLI Developer Tooling** | Features a rich Command Line Interface built with `Typer` and `Rich` for script-free interactions. |
+| **Resilient Pipelines** | Includes advanced automatic pagination handling, comprehensive mock testing, and 100% CI coverage. |
 
 ---
+
 ### 🛠 Technical Arsenal
 
 #### 🐍 **Backend Core**
@@ -89,6 +88,3 @@ This SDK is engineered to bridge the gap between Python backend developers and t
   <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" />
   <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" />
 </p>
-
-
----
