@@ -1,7 +1,6 @@
 <div align="center">
- 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shivam+Pawar;Backend+%26+DevOps+Engineer;Building+Scalable+Systems;GSoC+2026+Aspirant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Shivam+Pawar;Backend+%26+DevOps+Engineer;Building+Scalable+Systems;FOSSASIA+Core+Contributor" alt="Typing SVG" />
   </a>
 
   <h3>System Optimization | Database Architecture | Developer Tooling</h3>
@@ -29,6 +28,15 @@ I am a **Backend-First Engineer** with a passion for **Infrastructure-as-Code** 
 - 👯 **I’m looking to collaborate on:** Open Source Python Tooling & Async System Design.
 - 💬 **Ask me about:** Django ORM Optimization (N+1 queries), Docker Multi-stage Builds, and REST API Security.
 - ⚡ **Fun fact:** I recently reduced the Eventyay backend Docker image size by 40% in a single PR.
+
+---
+
+### 🏆 Experience & Milestones
+
+* **Full Stack Developer Intern @ Unique Schools App LLP (Ireland):** Architected and deployed production-grade web applications for an international ed-tech platform using React, Next.js, and Docker.
+* **1st Place Winner @ HACK MIT-WPU:** Built and scaled a full-stack application under extreme time constraints.
+* **Tech Speaker @ GDG:** Active technical speaker within the Google Developer Groups ecosystem, breaking down complex software architectures.
+* **Creator of Syn1love:** Engineered a live e-commerce platform from scratch with secure payment gateway integrations.
 
 ---
 
