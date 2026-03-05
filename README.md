@@ -3,7 +3,7 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Shivam+Pawar;Backend+%26+DevOps+Engineer;Building+Scalable+Systems;FOSSASIA+Core+Contributor" alt="Typing SVG" />
   </a>
 
-  <h3>System Optimization | Database Architecture | Developer Tooling</h3>
+  <h3>System Optimization | Database Architecture | Developer Tooling.</h3>
 
   <p>
     <a href="https://linkedin.com/in/shivam-pawar">
