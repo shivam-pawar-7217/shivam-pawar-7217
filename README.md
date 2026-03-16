@@ -1,9 +1,10 @@
 <div align="center">
+ 
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=500&lines=Hi+there!+I'm+Shivam+Pawar;Backend+%26+DevOps+Engineer;Building+Scalable+Systems;FOSSASIA+Core+Contributor" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shivam+Pawar;Backend+%26+DevOps+Engineer;Building+Scalable+Systems;GSoC+2026+Aspirant" alt="Typing SVG" />
   </a>
 
-  <h3>System Optimization | Database Architecture | Developer Tooling.</h3>
+  <h3>System Optimization | Database Architecture | Developer Tooling</h3>
 
   <p>
     <a href="https://linkedin.com/in/shivam-pawar">
@@ -31,29 +32,6 @@ I am a **Backend-First Engineer** with a passion for **Infrastructure-as-Code** 
 
 ---
 
-### 🏆 Experience & Milestones
-
-* **Full Stack Developer Intern @ Unique Schools App LLP (Ireland):** Architected and deployed production-grade web applications for an international ed-tech platform using React, Next.js, and Docker.
-* **1st Place Winner @ HACK MIT-WPU:** Built and scaled a full-stack application under extreme time constraints.
-* **Tech Speaker @ GDG:** Active technical speaker within the Google Developer Groups ecosystem, breaking down complex software architectures.
-* **Creator of Syn1love:** Engineered a live e-commerce platform from scratch with secure payment gateway integrations.
-
----
-
-### 📊 GitHub Analytics
-<div align="center">
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api?username=shivam-pawar-7217&show_icons=true&theme=radical&count_private=true" alt="Shivam's GitHub Stats" />
-  </p>
-  <p>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=shivam-pawar-7217&theme=radical&hide_border=true" alt="Shivam's Streak" />
-  </p>
-  <p>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shivam-pawar-7217&layout=compact&theme=radical&hide=html,css,jupyter%20notebook" alt="Top Languages" />
-  </p>
-</div>
-
----
 
 ### 🚀 **Featured Project: The Eventyay Python SDK**
 *🔗 [shivam-pawar-7217/eventyay-python-sdk](https://github.com/shivam-pawar-7217/eventyay-python-sdk)*
