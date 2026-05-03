@@ -1,7 +1,7 @@
 <div align="center">
  
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shivam+Pawar;Backend+%26+DevOps+Engineer;Building+Scalable+Systems;GSoC+2026+Aspirant" alt="Typing SVG" />
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=2496ED&center=true&vCenter=true&width=435&lines=Hi+there!+I'm+Shivam+Pawar;Backend+%26+DevOps+Engineer;Building+Scalable+Systems" alt="Typing SVG" />
   </a>
 
   <h3>System Optimization | Database Architecture | Developer Tooling</h3>
